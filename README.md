@@ -4,10 +4,10 @@
 
 # サーバー
 
-go getで`golang.org/x/net`をインストールしておく
+go getで`golang.org/x/net/http2`をインストールしておく
 
 ```
-$ go get -u golang.org/x/net
+$ go get -u golang.org/x/net/http2
 ```
 
 オレオレ証明書を作成
