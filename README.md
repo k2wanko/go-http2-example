@@ -1,6 +1,6 @@
 # 環境
-MacOSX
-Go 1.5
+- MacOSX
+- Go 1.5
 
 # サーバー
 
